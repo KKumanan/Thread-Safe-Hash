@@ -1,4 +1,4 @@
-# Hash Hash Hash
+# Safe Hash
 Threadsafe implementations of Hash Tables in C++ using mutex locks.
 
 ## Building
